@@ -14,5 +14,6 @@ def not_safe?(speed)
  speed < 40 or > 60
 end
 	
+conditional ? action_if_true : action_if_false
 
 
